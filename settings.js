@@ -7,14 +7,14 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281575886399']
-global.premium = ['6281575886399']
+global.owner = ['6282249056319']
+global.premium = ['6282249056319']
 global.youtube = 'https://youtube.com/c/Riy'
-global.ownername = 'Riy'
+global.ownername = 'Kepin-X'
 global.botname ='Hinata-Md'
 global.donasi = {
     saweria: 'https://saweria.co/riy20',
-    nomor: '081575886399'
+    nomor: '082249056319'
 }
 global.packname = 'Hinata-Md'
 global.author = 'WhatsApp Bot'
